@@ -1,5 +1,5 @@
 # BarcampGR - PsychFlutter
-Psychology of Mobile User Interfaces with Flutter
+##Psychology of Mobile User Interfaces with Flutter - 25 minutes of impromptu discussion and demonstrations.
 
 This is the quick demo of different User Interface possibilities with Flutter - comparing and contrasting some iOS/Cupertino with some Material/Mountain-View alternatives.
 
